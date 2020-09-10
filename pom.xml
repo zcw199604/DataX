@@ -65,7 +65,6 @@
         <module>postgresqlwriter</module>
         <module>osswriter</module>
         <module>mongodbwriter</module>
-        <module>adswriter</module>
         <module>ocswriter</module>
         <module>elasticsearchwriter</module>
         <module>adbpgwriter</module>
